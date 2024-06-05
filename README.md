@@ -1,6 +1,6 @@
-# QuickCalc
+# SimpleSolver
 
-QuickCalc is a simple and intuitive calculator built using HTML, CSS, and JavaScript. This project demonstrates the basic functionalities of a calculator, 
+ SimpleSolver is a simple and intuitive calculator built using HTML, CSS, and JavaScript. This project demonstrates the basic functionalities of a calculator, 
 including addition, subtraction, multiplication, and division.
 
 ## Features
